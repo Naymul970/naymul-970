@@ -1,3 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
 img{
     width: 400px;
     height: auto;
