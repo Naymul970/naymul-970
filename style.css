@@ -30,3 +30,17 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big img{
+    width:80%;
+    border-radius: 50%;
+}
+.color{
+    color: blueviolet;
+}
+.link-button2{
+    text-decoration: none;
+    padding: 10px 40px;
+background-image: linear-gradient(blue red);
+color: white;
+font-weight: 700;
+}
