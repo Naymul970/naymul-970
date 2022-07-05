@@ -15,7 +15,7 @@ span{
     width: 50%;
 
 }
-section{
+.flexible-content{
     display: flex;
     margin-bottom:150px ;
 }
