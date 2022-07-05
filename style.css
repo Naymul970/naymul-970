@@ -17,6 +17,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom:150px ;
 }
 .link-button{
     text-decoration: none;
@@ -30,6 +31,7 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+/* first step end*/
 .dream-big img{
     width:80%;
     border-radius: 50%;
@@ -41,6 +43,14 @@ section{
     text-decoration: none;
     padding: 10px 40px;
 background-image: linear-gradient(blue red);
-color: white;
+color:blue;
 font-weight: 700;
+border-radius: 10%;
+background-color:tomato;
 }
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/*second step end*/
