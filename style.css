@@ -36,8 +36,14 @@ span{
 }
 /* first step end*/
 .dream-big img{
-    width:80%;
-    border-radius: 50%;
+    width:300px;
+    height: 400px;
+    border-radius: 20%;
+    margin: 10px;
+}
+.dream-big1{
+    margin-left: 80px;
+    width: 50%;
 }
 .color{
     color: blueviolet;
@@ -80,4 +86,8 @@ background-color:tomato;
 }
 #baby-web-devloper{
     border-left: 5px solid blue;
+}
+footer{
+    text-align: center;
+    color: blue;
 }
